@@ -82,9 +82,11 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, March 2, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: 
- * **Topic(s)**:    
+ * **Presenter(s)**: Sudha
+ * **Topic(s)**: Matrix-Variate Linear Mixed Model/fast variance-components analysis   
  * **Materials**:    
+    * [Article](http://www.nature.com/ng/journal/v47/n12/full/ng.3431.html#supplementary-information)
+    * [Article](http://genetics.org/content/200/1/59)
 
 ----------------------------------------------------------------------------
 
@@ -184,4 +186,5 @@ heritability problem (PNAS, 2015) ](http://www.pnas.org/content/113/1/E61.full.p
 * [Big data mining yields novel insights on cancer](http://www.nature.com/ng/journal/v47/n2/full/ng.3205.html)
 * [Factors underlying variable DNA methylation in a human community cohort](http://www.pnas.org/content/109/Supplement_2/17253.full.pdf?sid=c8beed59-5f0c-471b-a773-14b0ba21ef82)
 * [Integration Analysis of Three Omics Data Using Penalized Regression Methods: An Application to Bladder Cancer](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005689)
-
+[Contrasting genetic architectures of schizophrenia and other complex diseases using fast variance-components analysis](http://www.nature.com/ng/journal/v47/n12/full/ng.3431.html#supplementary-information)
+[Efficient Multiple-Trait Association and Estimation of Genetic Correlation Using the Matrix-Variate Linear Mixed Model](http://genetics.org/content/200/1/59)
