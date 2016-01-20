@@ -97,8 +97,8 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday,  March 16, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: 
- * **Topic(s)**:    
+ * **Presenter(s)**: Scott
+ * **Topic(s)**: RNA editing: new sources of genomic variation, software and application   
  * **Materials**:    
 
 ---------------------------------------------------------------------------- 
