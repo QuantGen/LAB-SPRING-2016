@@ -39,7 +39,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, February 3, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: Hank Wu
+ * **Presenter(s)**: Hank
  * **Topic(s)**: Identify Cis-eQTL Target Gene associated with GBM   
  * **Materials**:
     * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Hank_Paper_GBM%20eQTL.pdf)
