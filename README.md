@@ -50,9 +50,9 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
  * **Presenter(s)**: Yeni
- * **Topic(s)**: Limitations of GCTA   
+ * **Topic(s)**: The Nature of genetic Variation for Complex Traits   
  * **Materials**: 
-    * [Article](http://www.pnas.org/content/113/1/E61.full.pdf)
+    * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Yeni_Paper_Nature%20of%20Genetic%20Variation%20for%20Complex%20Traits%20Revealed%20by%20GWAS%20and%20Regional%20Heritability%20Mapping%20Analyses.pdf)
 
 
 ----------------------------------------------------------------------------
