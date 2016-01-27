@@ -32,6 +32,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Topic(s)**: DNA Methylation   
  * **Materials**: 
     * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Agustin_Paper_DNA%20Methylation.pdf)
+    * [Slides](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Agustin_Slides.pptx)
 
  
 ----------------------------------------------------------------------------
