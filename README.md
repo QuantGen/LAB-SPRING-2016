@@ -73,9 +73,9 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Time**:  1:30-3:00pm
  * **Room**:  Central Conference Room
  * **Presenter(s)**: 
- * **Topic(s)**:  
- * **Materials**:  
-    * [Article](http://www.pnas.org/content/112/45/13892.abstract)
+ * **Topic(s)**:  TBD
+ * **Materials**:  TBD
+
 
 
 ----------------------------------------------------------------------------
