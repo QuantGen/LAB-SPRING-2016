@@ -69,11 +69,11 @@ Grant proposals: if time permit we will include on section on grant writing (for
 
 ----------------------------------------------------------------------------
 
- * **Date**:  Wednesday, February 24, 2016.
- * **Time**:  1:45-2:45pm
+ * **Date**:  Thursday, February 25, 2016.
+ * **Time**:  1:30-3:00pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: Mengying
- * **Topic(s)**: Significancy vs prediction power, partition retention method 
+ * **Presenter(s)**: 
+ * **Topic(s)**:  
  * **Materials**:  
     * [Article](http://www.pnas.org/content/112/45/13892.abstract)
 
@@ -117,9 +117,10 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday,  March 30, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: 
- * **Topic(s)**:    
- * **Materials**:    
+ * **Presenter(s)**: Mengying
+ * **Topic(s)**: Significancy vs prediction power, partition retention method   
+ * **Materials**:
+    * [Article](http://www.pnas.org/content/112/45/13892.abstract)
 
 ----------------------------------------------------------------------------
 
