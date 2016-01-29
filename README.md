@@ -71,7 +71,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
 
  * **Date**:  Thursday, February 25, 2016.
  * **Time**:  1:30-3:00pm
- * **Room**:  Central Conference Room
+ * **Room**:  East Conference Room
  * **Presenter(s)**: 
  * **Topic(s)**:  TBD
  * **Materials**:  TBD
