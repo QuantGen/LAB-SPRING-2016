@@ -131,6 +131,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Topic(s)**: Significancy vs prediction power, partition retention method    
  * **Materials**:    
     * [Article](http://www.pnas.org/content/112/45/13892.abstract)
+
 ----------------------------------------------------------------------------
 
  * **Date**:  Wednesday,  April 13, 2016.
