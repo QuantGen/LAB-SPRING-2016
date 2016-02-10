@@ -55,6 +55,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Topic(s)**: The Nature of genetic Variation for Complex Traits   
  * **Materials**: 
     * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Yeni_Paper_Nature%20of%20Genetic%20Variation%20for%20Complex%20Traits%20Revealed%20by%20GWAS%20and%20Regional%20Heritability%20Mapping%20Analyses.pdf)
+    * [Slides](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Yeni_Slides.pdf)
 
 
 ----------------------------------------------------------------------------
