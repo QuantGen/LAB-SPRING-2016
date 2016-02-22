@@ -144,7 +144,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Presenter(s)**: Mengying
  * **Topic(s)**: Significancy vs prediction power, partition retention method   
  * **Materials**:     
- * * [Article](http://www.pnas.org/content/112/45/13892.abstract)   
+    * [Article](http://www.pnas.org/content/112/45/13892.abstract)   
 
 ----------------------------------------------------------------------------
 
