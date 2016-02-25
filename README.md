@@ -132,8 +132,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Presenter(s)**: Sudha
  * **Topic(s)**: Matrix-Variate Linear Mixed Model/fast variance-components analysis   
  * **Materials**:    
-    * [Article1](http://www.nature.com/ng/journal/v47/n12/full/ng.3431.html#supplementary-information)
-    * [Article2](http://genetics.org/content/200/1/59)
+    * [Article](http://genetics.org/content/200/1/59)
 
 ----------------------------------------------------------------------------
 
