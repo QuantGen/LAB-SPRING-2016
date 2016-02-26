@@ -77,7 +77,9 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Presenter(s)**: Dr. Hsu & Dr. Ho
  * **Topic(s)**:  TBD
  * **Materials**:  TBD
-    * [Homepage](https://vprgs.msu.edu/stephen-hsu-vice-president-research-and-graduate-studies)
+    * [Slides]()
+    * [Video](http://infoproc.blogspot.com/2015/05/genetic-architecture-and-predictive.html)
+    * [Reference](http://infoproc.blogspot.com/2009/09/some-favorite-posts.html)
 
 
 
