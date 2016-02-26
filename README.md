@@ -75,9 +75,9 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Time**:  1:30-3:00pm
  * **Room**:  East Conference Room
  * **Presenter(s)**: Dr. Hsu & Dr. Ho
- * **Topic(s)**:  TBD
- * **Materials**:  TBD
-    * [Slides]()
+ * **Topic(s)**: Genetic architecture and predictive modeling of quantitative traits
+ * **Materials**:
+    * [Slides](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Steve%20Hsu_Slides.pdf)
     * [Video](http://infoproc.blogspot.com/2015/05/genetic-architecture-and-predictive.html)
     * [Reference](http://infoproc.blogspot.com/2009/09/some-favorite-posts.html)
 
