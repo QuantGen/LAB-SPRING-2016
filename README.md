@@ -105,7 +105,8 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Presenter(s)**: Scott
  * **Topic(s)**: RNA editing: new sources of genomic variation, software and application   
  * **Materials**: 
-    * [Slides]()
+    * [Introduction](http://genome.cshlp.org/content/early/2013/12/17/gr.164749.113.abstract)
+    * [Software](https://github.com/funkhou9/editTools)
 
 ---------------------------------------------------------------------------- 
  * **Date**:  Wednesday,  March 23, 2016.
