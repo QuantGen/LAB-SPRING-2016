@@ -102,11 +102,10 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday,  March 16, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: Scott
- * **Topic(s)**: RNA editing: new sources of genomic variation, software and application   
+ * **Presenter(s)**: TBD
+ * **Topic(s)**:    
  * **Materials**: 
-    * [Introduction](http://genome.cshlp.org/content/early/2013/12/17/gr.164749.113.abstract)
-    * [Software](https://github.com/funkhou9/editTools)
+
 
 ---------------------------------------------------------------------------- 
  * **Date**:  Wednesday,  March 23, 2016.
@@ -162,9 +161,11 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday,  April 27, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: 
- * **Topic(s)**:    
- * **Materials**:    
+ * **Presenter(s)**: Scott
+ * **Topic(s)**: RNA editing: new sources of genomic variation, software and application   
+ * **Materials**: 
+    * [Introduction](http://genome.cshlp.org/content/early/2013/12/17/gr.164749.113.abstract)
+    * [Software](https://github.com/funkhou9/editTools)
 
 ----------------------------------------------------------------------------
 
