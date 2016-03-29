@@ -122,7 +122,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
  * **Presenter(s)**: Fernando
- * **Topic(s)**:  TBD 
+ * **Topic(s)**:  Use of high-resolution image data for prediction of maize yield 
  * **Materials**: TBD
 
 
