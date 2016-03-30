@@ -115,7 +115,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Topic(s)**: Modification of the Coiled-Coil domain from the RB gene in transgenic potato using the CRISPR/Cas9 system   
  * **Materials**:
     * [Review](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Felix_Review_Genome%20Editing.pdf)
-
+    * [Slides](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Felix_Slides_Genome%20editing.pdf)
 ----------------------------------------------------------------------------
 
  * **Date**:  Wednesday,  March 30, 2016.
