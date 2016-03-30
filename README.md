@@ -123,7 +123,9 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Room**:  Central Conference Room
  * **Presenter(s)**: Fernando
  * **Topic(s)**:  Use of high-resolution image data for prediction of maize yield 
- * **Materials**: TBD
+ * **Materials**: 
+    *[Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Fernando_short%20article.docx)
+
 
 
 ----------------------------------------------------------------------------
