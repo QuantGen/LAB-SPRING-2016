@@ -126,7 +126,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Topic(s)**:  Use of high-resolution image data for prediction of maize yield 
  * **Materials**: 
     * [Article](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Fernando_short%20article.docx)
-
+    * [Slides](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Fernando_Slides_Image%20data%20to%20presidict%20maize%20yield.pptx)
 
 
 ----------------------------------------------------------------------------
