@@ -134,10 +134,9 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday, April 6, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: Sudha
- * **Topic(s)**: Matrix-Variate Linear Mixed Model/fast variance-components analysis   
- * **Materials**:    
-    * [Article](http://genetics.org/content/200/1/59)
+ * **Presenter(s)**:  NA
+ * **Topic(s)**:  NA
+ * **Materials**:   NA
 
 ----------------------------------------------------------------------------
 
@@ -145,19 +144,20 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Date**:  Wednesday,  April 13, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: Mengying
- * **Topic(s)**: Significancy vs prediction power, partition retention method   
+ * **Presenter(s)**: Sudha
+ * **Topic(s)**:  Matrix-Variate Linear Mixed Model/fast variance-components analysis   
  * **Materials**:     
-    * [Article](http://www.pnas.org/content/112/45/13892.abstract)   
+    * [Article](http://genetics.org/content/200/1/59)
 
 ----------------------------------------------------------------------------
 
  * **Date**:  Wednesday,  April 20, 2016.
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
- * **Presenter(s)**: 
- * **Topic(s)**:    
- * **Materials**:    
+ * **Presenter(s)**: Mengying
+ * **Topic(s)**: Significancy vs prediction power, partition retention method    
+ * **Materials**: 
+    * [Article](http://www.pnas.org/content/112/45/13892.abstract)   
 
 ----------------------------------------------------------------------------
 
