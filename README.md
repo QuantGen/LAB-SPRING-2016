@@ -145,9 +145,9 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Time**:  1:45-2:45pm
  * **Room**:  Central Conference Room
  * **Presenter(s)**: Sudha
- * **Topic(s)**:  Matrix-Variate Linear Mixed Model/fast variance-components analysis   
+ * **Topic(s)**:  Modeling genetic heterogeneity and sex differences using random effect interactions   
  * **Materials**:     
-    * [Article](http://genetics.org/content/200/1/59)
+
 
 ----------------------------------------------------------------------------
 
