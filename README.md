@@ -146,7 +146,8 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Room**:  Central Conference Room
  * **Presenter(s)**: Sudha
  * **Topic(s)**:  Modeling genetic heterogeneity and sex differences using random effect interactions   
- * **Materials**:     
+ * **Materials**: 
+    * [Slides](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Sudha_Slides.pdf)
 
 
 ----------------------------------------------------------------------------
