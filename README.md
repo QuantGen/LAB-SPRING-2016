@@ -171,6 +171,7 @@ Grant proposals: if time permit we will include on section on grant writing (for
  * **Materials**: 
     * [Introduction](http://genome.cshlp.org/content/early/2013/12/17/gr.164749.113.abstract)
     * [Software](https://github.com/funkhou9/editTools)
+    * [Slides](https://github.com/QuantGen/LAB-SPRING-2016/blob/master/Scott_Slides.pdf)
 
 ----------------------------------------------------------------------------
 
